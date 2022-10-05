@@ -1,6 +1,6 @@
 {
-  "name": "SHC SERVICIOS WEB",
-  "short_name": "SHC SERVICIOS WEB",
+  "name": "ACME",
+  "short_name": "ACME",
   "start_url": "/",
   "scope": "/",
   "theme_color": "#4546e5",

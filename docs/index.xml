@@ -1,42 +1,42 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ACME Corp. on SHC SERVICIOS WEB</title>
+    <title>ACME Corp</title>
     <link>/acme/</link>
-    <description>Recent content in ACME Corp. on SHC SERVICIOS WEB</description>
+    <description>Recent content in ACME Corp. on ACME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <managingEditor>contact@shcservices.es (SHC SERVICIOS WEB)</managingEditor>
-    <webMaster>contact@shcservices.es (SHC SERVICIOS WEB)</webMaster>
+    <managingEditor>contact@acme.es (ACME)</managingEditor>
+    <webMaster>contact@acme.es (ACME)</webMaster>
     <lastBuildDate>Wed, 21 Sep 2022 08:55:04 +0200</lastBuildDate>
     
         <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<title>MALLOS DE RIGLOS</title>
-<link>/acme/viajes/mallos/</link>
+<title>BANGKOK</title>
+<link>/acme/viajes/Bangkok/</link>
 <pubDate>Tue, 27 Sep 2022 08:55:04 +0200</pubDate>
-      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/acme/viajes/mallos/</guid>
+      <author>contact@acme.es (ACME)</author>
+      <guid>/acme/viajes/bangkok/</guid>
 <description></description>
 <category></category></item>
     
     <item>
-<title>BENASQUE</title>
-<link>/acme/viajes/benasque/</link>
+<title>MOSCU</title>
+<link>/acme/viajes/Moscu/</link>
 <pubDate>Mon, 26 Sep 2022 08:55:04 +0200</pubDate>
-      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/acme/viajes/benasque/</guid>
+      <author>contact@acme.es (ACME)</author>
+      <guid>/acme/viajes/moscu/</guid>
 <description></description>
 <category></category></item>
     
     <item>
-<title>Pirineo</title>
-<link>/acme/viajes/pirineo/</link>
+<title>MONTEVIDEO</title>
+<link>/acme/viajes/Montevideo/</link>
 <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
-      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
-      <guid>/acme/viajes/pirineo/</guid>
+      <author>contact@acme.es (ACME)</author>
+      <guid>/acme/viajes/Montevideo/</guid>
 <description></description>
 <category></category></item>
     
@@ -44,7 +44,7 @@
 <title>Curriculum</title>
 <link>/acme/curriculum/</link>
 <pubDate>Wed, 21 Sep 2022 08:53:49 +0200</pubDate>
-      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <author>contact@acme.es (ACME)</author>
       <guid>/acme/curriculum/</guid>
 <description></description>
 <category></category></item>
@@ -53,7 +53,7 @@
 <title></title>
 <link>/acme/contacto/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>contact@shcservices.es (SHC SERVICIOS WEB)</author>
+      <author>contact@acme.es (ACME)</author>
       <guid>/acme/contacto/</guid>
 <description></description>
 <category></category></item>

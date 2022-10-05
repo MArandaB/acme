@@ -6,14 +6,14 @@
     <description>Recent content in ACME Corp. on ACME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <managingEditor>contact@acmeservices.es (ACME)</managingEditor>
-    <webMaster>contact@acmeservices.es (ACME)</webMaster>
+    <managingEditor>contact@acme.es (ACME)</managingEditor>
+    <webMaster>contact@acme.es (ACME)</webMaster>
     <lastBuildDate>Wed, 21 Sep 2022 08:55:04 +0200</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bangkok</title>
       <link>localhost/viajes/Bangkok/</link>
       <pubDate>Tue, 27 Sep 2022 08:55:04 +0200</pubDate>
-      <author>contact@acmeservices.es (ACME)</author>
+      <author>contact@acme.es (ACME)</author>
       <guid>localhost/viajes/Bangkok/</guid>
       <description>Capital de Tailandia</description>
     </item>
@@ -22,7 +22,7 @@
       <title>Montevideo</title>
       <link>localhost/viajes/Montevideo/</link>
       <pubDate>Mon, 26 Sep 2022 08:55:04 +0200</pubDate>
-      <author>contact@acmeservices.es (ACME)</author>
+      <author>contact@acme.es (ACME)</author>
       <guid>localhost/viajes/Montevideo/</guid>
       <description>Capital de Uruguay</description>
     </item>
@@ -31,7 +31,7 @@
       <title>Moscu</title>
       <link>localhost/viajes/Moscu/</link>
       <pubDate>Wed, 21 Sep 2022 08:55:04 +0200</pubDate>
-      <author>contact@acmeservices.es (ACME)</author>
+      <author>contact@acme.es (ACME)</author>
       <guid>localhost/viajes/Moscu/</guid>
       <description>Capital de Rusia</description>
     </item>
@@ -40,7 +40,7 @@
       <title>Curriculum</title>
       <link>localhost/curriculum/</link>
       <pubDate>Wed, 21 Sep 2022 08:53:49 +0200</pubDate>
-      <author>contact@acmeservices.es (ACME)</author>
+      <author>contact@acme.es (ACME)</author>
       <guid>localhost/curriculum/</guid>
       <description>Mi nombre es tal y tal </description>
     </item>

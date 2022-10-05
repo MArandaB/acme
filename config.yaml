@@ -1,13 +1,13 @@
 baseURL: /acme
 languageCode: es-es
-title: ACME SERVICIOS WEB
+title: ACME
 theme: Eclectic
 
 author: 
   facebook: "https://facebook.com/ACMEservices" 
   twitter: "https://twitter.com/ACMEservices" 
   email: "contact@acme.es" 
-  name: "ACME SERVICIOS WEB" 
+  name: "ACME" 
   location: Zaragoza
   phone: (999) 999-9999 
   hours: "**Lunes-Viernes** 8:00AM - 3:00PM" 

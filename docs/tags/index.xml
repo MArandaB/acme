@@ -6,7 +6,7 @@
     <description>Recent content in Tags on ACME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <managingEditor>contact@shcservices.es (ACME)</managingEditor>
-    <webMaster>contact@shcservices.es (ACME)</webMaster><atom:link href="/acme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>contact@acme.es (ACME)</managingEditor>
+    <webMaster>contact@acme.es (ACME)</webMaster><atom:link href="/acme/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

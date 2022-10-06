@@ -15,7 +15,7 @@ author:
 menu:
   main: 
     - identifier: curriculum
-      name: ACERCA DE
+      name: Curriculum
       url: /curriculum
       weight: 40
     - identifier: contacto
@@ -32,8 +32,18 @@ menu:
       weight: 60
     - identifier: canales
       name: CANALES 
-      url: /television 
-      weight: 70
+      url: /television/canales 
+      weight: 225
+    - identifier: centros 
+      name: Centros
+      url: /centros 
+      pageRef: centros
+      weight: 235
+    - identifier: peliculas 
+      name: Peliculas 
+      url: /peliculas 
+      pageRef: peliculas
+      weight: 230
 params: 
   colorPickerEnabled: true
   color: "#4546e5"

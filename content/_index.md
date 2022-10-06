@@ -1,11 +1,11 @@
 ---
-title: "ACME Corp."
-subtitulo: "LA MEJOR EMPRESA DE ARAGÓN"
+title: "ACME"
+subtitulo: "Una empresa española que etc."
 ciudad: Zaragoza
 date: 2022-09-21T08:55:04+02:00
 draft: false
 ---
 
-## PÁGINA PRINCIPAL
+## PÁGINA
 
-![FOTO](https://www.caracteristicas.co/wp-content/uploads/2018/11/Sol-1-e1582904895390-800x416.jpg)
+![Imagen](https://s03.s3c.es/imag/_v0/770x420/a/6/f/Una-persona-sentada-en-una-montana-nevada-iStock.jpg)

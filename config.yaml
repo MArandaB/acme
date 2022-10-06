@@ -4,8 +4,8 @@ title: ACME
 theme: Eclectic
 
 author: 
-  facebook: "https://facebook.com/ACMEservices" 
-  twitter: "https://twitter.com/ACMEservices" 
+  facebook: "https://facebook.com/acme" 
+  twitter: "https://twitter.com/acme" 
   email: "contact@acme.es" 
   name: "ACME" 
   location: Zaragoza
@@ -32,7 +32,7 @@ menu:
       weight: 60
     - identifier: canales
       name: CANALES 
-      url: /television/canales 
+      url: /television 
       weight: 70
 params: 
   colorPickerEnabled: true

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributos on ACME</title>
+    <link>https://MArandaB.github.io/acme/contributos/</link>
+    <description>Recent content in Contributos on ACME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@acme.es (ACME)</managingEditor>
+    <webMaster>contact@acme.es (ACME)</webMaster>
+    <lastBuildDate>Thu, 06 Oct 2022 12:57:28 +0200</lastBuildDate><atom:link href="https://MArandaB.github.io/acme/contributos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contributos</title>
+      <link>https://MArandaB.github.io/acme/contributos/contributos/</link>
+      <pubDate>Thu, 06 Oct 2022 12:57:28 +0200</pubDate>
+      <author>contact@acme.es (ACME)</author>
+      <guid>https://MArandaB.github.io/acme/contributos/contributos/</guid>
+      <description>CONTRIBUTOS </description>
+    </item>
+    
+  </channel>
+</rss>

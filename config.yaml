@@ -30,6 +30,10 @@ menu:
       name: BLOG 
       url: /blog 
       weight: 60
+    - identifier: contributos
+      name: CONTRIBUTOS 
+      url: /contributos/contributos 
+      weight: 95
     - identifier: canales
       name: CANALES 
       url: /television/canales 
